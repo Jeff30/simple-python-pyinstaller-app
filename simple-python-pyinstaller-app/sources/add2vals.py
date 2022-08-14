@@ -1,6 +1,7 @@
 '''
 A simple command line tool that takes 2 values and adds them together using
-the calc.py library's 'add2' function.asd
+the calc.py library's 'add2' function.
+Will add some new stuiff later on 
 '''
 
 import sys
